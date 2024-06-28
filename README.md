@@ -33,12 +33,8 @@ From the repository root, start the Notebook server with ``jupyter notebook``.
 
 ## Credits
 
-+ all the assignments come from [Udacity][udacity-deep-learning] and the [TensorFlow repository][tensorflow-repo]
 + the weird fonts dataset used for this image recognition is the [notMNIST dataset][notmnist] from Yaroslav Bulatov (there are also a download mirrors for the [large][notmnist-large] and [small][notmnist-small] dataset)
 + the final neural network of the assignment #4 is loosely inspired by the notorious LeNet-5, as described in the research paper ["Gradient-Based Learning Applied to Document Recognition"][lenet-5] by Y. LeCun, L. Bottou, Y. Bengio and P. Haffner
-
-[udacity-deep-learning]: https://www.udacity.com/course/deep-learning--ud730
-[udacity-nanodegree]: https://www.udacity.com/nanodegree
 
 [jupyter]: http://jupyter.org/
 [anaconda]: https://www.continuum.io/
